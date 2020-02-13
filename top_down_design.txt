@@ -1,0 +1,28 @@
+Making a sandwich
+
+1. Decide what type of sandwich to make
+  1.1 google sandwich recipes
+    1.1.1 chose which sandwich to make
+      1.1.1.1 write down the recipes for tuna sandwich
+2. go to kitchen
+  2.1 walk to the sink
+    2.1.1 wash hands
+  2.2 gather ingredients for sandwich
+    2.2.1 walk to fridge
+      2.2.1.1 grab onion
+      2.2.1.2 grab mayonnaise
+      2.2.1.3 grab mustard
+      2.2.1.4 grab celery
+      2.2.1.5 grab lemon
+      2.2.1.6 grab dill
+    2.2.2 walk to pantry
+     2.2.2.1 grab salt
+     2.2.2.2 grab pepper
+     2.2.2.3 grab bread
+  2.3 get cutting board
+     2.3.1 chop onion
+     2.3.2 chop celery
+  2.3 drain water from the tuna
+  2.4 mix ingredients
+
+    
