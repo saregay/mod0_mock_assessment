@@ -1,0 +1,16 @@
+German shepherd
+
+attribute:
+color: "brown"
+size: 50
+type: "german shepherd"
+name: ("ruby")
+age: 10
+
+
+
+method:
+reduce: age = 45
+change: color = "grey"
+modify: dog type = "pit bull"
+add: age = 12

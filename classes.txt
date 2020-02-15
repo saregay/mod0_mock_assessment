@@ -1,0 +1,16 @@
+Dog
+
+attribute:
+color (string)
+size (integer )
+type (string)
+name (array)
+age (integer)
+
+
+
+method:
+reduce (reduces dog size by 5)
+change (changes color to grey)
+modify (modify dog type )
+add (adds age by 2)
